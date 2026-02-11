@@ -145,7 +145,7 @@ SISWA SMKN I RANGKASBITUNG
             <h2>PENGALAMAN KERJA</h2>
             <div class="item">
                 <h3>[PKL dinas komunikasi informatika statistik dan persandian provinsi banten]</h3>
-                <div class="sub-info">[
+                <div class="sub-info">
                 <p>
                     - [
 Mendukung kegiatan operasional lapangan.]<br>
@@ -173,5 +173,4 @@ Mendukung kegiatan operasional lapangan.]<br>
             </div>
         </section>
     </div>
-</body>
-</html>
+
