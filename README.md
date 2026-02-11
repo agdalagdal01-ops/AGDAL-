@@ -126,11 +126,10 @@ SISWA SMKN I RANGKASBITUNG
         <!-- Header -->
         <header>
             <h1>[AGDAL]</h1>
-            <p>[JABATAN YANG DIINGINKAN, MISAL: WEB DEVELOPER]</p>
             <div class="contact-info">
-                <span>📧 [email@contoh.com]</span>
-                <span>📱 [Nomor HP (tanpa detail privasi)]</span>
-                <span>📍 [Kota, Indonesia]</span>
+                <span>📧 [agdalagdal01@gmail.com]</span>
+                <span>📱 [089516397991]</span>
+                <span>📍 [Kota, Rangkasbitung]</span>
                 <span>🔗 <a href="[link LinkedIn/GitHub]">Profil Online</a></span>
             </div>
         </header>
