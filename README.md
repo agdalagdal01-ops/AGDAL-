@@ -1,6 +1,5 @@
 # AGDAL
 SISWA SMKN I RANGKASBITUNG 
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
