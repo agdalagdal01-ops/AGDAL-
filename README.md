@@ -138,7 +138,7 @@ SISWA SMKN I RANGKASBITUNG
         <section>
             <h2>TENTANG SAYA</h2>
             <p>
-                [Tuliskan ringkasan diri singkat, pengalaman utama, dan tujuan karir. Misal: Pengembang web dengan pengalaman 2 tahun dalam membuat situs responsif menggunakan HTML, CSS, dan JavaScript. Berkomitmen untuk menghasilkan karya berkualitas tinggi dan mendukung pertumbuhan perusahaan.]
+                [Siswa SMKN 1 RANGKASBITUNG jurusan Teknik Komputer dan Jaringan yang memiliki minat di bidang IT dan jaringan komputer. Terbiasa bekerja dengan rapi, disiplin, dan bertanggung jawab.]
             </p>
         </section>
 
@@ -146,19 +146,16 @@ SISWA SMKN I RANGKASBITUNG
         <section>
             <h2>PENGALAMAN KERJA</h2>
             <div class="item">
-                <h3>[Nama Perusahaan]</h3>
-                <div class="sub-info">[Jabatan] | [Bulan Tahun - Bulan Tahun]</div>
+                <h3>[PKL dinas komunikasi informatika statistik dan persandian provinsi banten]</h3>
+                <div class="sub-info">[
                 <p>
-                    - [Deskripsi tugas/hasil kerja 1]<br>
-                    - [Deskripsi tugas/hasil kerja 2]
+                    - [
+Mendukung kegiatan operasional lapangan.]<br>
+                    - [Konfigurasi jaringan dasar menggunakan Cisco Packet Tracer]
                 </p>
             </div>
             <div class="item">
-                <h3>[Nama Perusahaan Lain]</h3>
-                <div class="sub-info">[Jabatan] | [Bulan Tahun - Bulan Tahun]</div>
-                <p>
-                    - [Deskripsi tugas/hasil kerja 1]<br>
-                    - [Deskripsi tugas/hasil kerja 2]
+            
                 </p>
             </div>
         </section>
@@ -167,21 +164,20 @@ SISWA SMKN I RANGKASBITUNG
         <section>
             <h2>PENDIDIKAN</h2>
             <div class="item">
-                <h3>[Nama Universitas/Sekolah]</h3>
-                <div class="sub-info">[Jurusan] | [Tahun Masuk - Tahun Lulus] | [IPK/Nilai]</div>
+                <h3>[SMKN1 RANGKASBITUNG]</h3>
+                <div class="sub-info">[TEKNIK KOMPUTER JARINGAN] | [2023 -2026] | [IPK/Nilai]</div>
                 <p>[Ringkasan prestasi jika ada, misal: Juara lomba teknologi, organisasi yang diikuti]</p>
             </div>
         </section>
 
-        <!-- Keterampilan -->
+        <!-- kemampuan -->
         <section>
-            <h2>KETERAMPILAN</h2>
+            <h2>kemampuan</h2>
             <div class="skills-list">
-                <span>[Keterampilan 1, misal: HTML]</span>
-                <span>[Keterampilan 2, misal: CSS]</span>
-                <span>[Keterampilan 3, misal: JavaScript]</span>
-                <span>[Keterampilan 4, misal: Bootstrap]</span>
-                <span>[Keterampilan 5, misal: Git]</span>
+                <span>[Dasar-dasar Jaringan]</span>
+                <span>[Dasar HTML & CSS]</span>
+                <span>[Microsoft Office]</span>
+                <span>[Administrasi]</span>
             </div>
         </section>
     </div>
