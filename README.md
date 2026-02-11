@@ -1,11 +1,11 @@
-# AGDAL-
+# AGDAL
 SISWA SMKN I RANGKASBITUNG 
 <!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV Online - [Nama Kamu]</title>
+    <title>CV Online - [AGDAL]</title>
     <style>
         * {
             margin: 0;
@@ -125,7 +125,7 @@ SISWA SMKN I RANGKASBITUNG
     <div class="cv-container">
         <!-- Header -->
         <header>
-            <h1>[NAMA LENGKAP KAMU]</h1>
+            <h1>[AGDAL]</h1>
             <p>[JABATAN YANG DIINGINKAN, MISAL: WEB DEVELOPER]</p>
             <div class="contact-info">
                 <span>📧 [email@contoh.com]</span>
