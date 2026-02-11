@@ -139,9 +139,7 @@ SISWA SMKN I RANGKASBITUNG
             <h2>TENTANG SAYA</h2>
             <p>
                 [Siswa SMKN 1 RANGKASBITUNG jurusan Teknik Komputer dan Jaringan yang memiliki minat di bidang IT dan jaringan komputer. Terbiasa bekerja dengan rapi, disiplin, dan bertanggung jawab.]
-            </p>
-        </section>
-
+            
         <!-- Pengalaman Kerja -->
         <section>
             <h2>PENGALAMAN KERJA</h2>
@@ -152,9 +150,6 @@ SISWA SMKN I RANGKASBITUNG
                     - [
 Mendukung kegiatan operasional lapangan.]<br>
                     - [Konfigurasi jaringan dasar menggunakan Cisco Packet Tracer]
-                </p>
-            </div>
-            <div class="item">
             
                 </p>
             </div>
@@ -165,10 +160,7 @@ Mendukung kegiatan operasional lapangan.]<br>
             <h2>PENDIDIKAN</h2>
             <div class="item">
                 <h3>[SMKN1 RANGKASBITUNG]</h3>
-                <div class="sub-info">[TEKNIK KOMPUTER JARINGAN] | [2023 -2026] | [IPK/Nilai]</div>
-                <p>[Ringkasan prestasi jika ada, misal: Juara lomba teknologi, organisasi yang diikuti]</p>
-            </div>
-        </section>
+                <div class="sub-info">[TEKNIK KOMPUTER JARINGAN] [2023 -2026]
 
         <!-- kemampuan -->
         <section>
