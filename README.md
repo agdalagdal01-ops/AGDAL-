@@ -153,7 +153,7 @@ Mendukung kegiatan operasional lapangan.]<br>
             
                 </p>
             </div>
-        </section>
+  
 
         <!-- Pendidikan -->
         <section>
